@@ -1,2 +1,5 @@
 # obdcharm
-Created with CodeSandbox
+
+a project of neurocomputation lab,
+
+NCAIL NEDUET, Karachi
